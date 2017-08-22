@@ -1,4 +1,4 @@
-# self-destroy-instance
+# Self destroy instance 
 Self destroy linux instance in Azure Virtual Machine Scale Sets
 
 ## Prerequisites
